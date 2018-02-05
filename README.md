@@ -1,6 +1,6 @@
 # react-native-pjsip
 
-A [PJSIP](http://www.pjsip.org/) module for React Native.
+A [PJSIP](http://www.pjsip.org/) module for React Native.  
 
 ## Support
 - Currently support for iOS and Android.  
